@@ -83,7 +83,8 @@ media-gfx/feh
 media-sound/audacity
 media-sound/mpd
 media-sound/ncmpcpp
-media/mplayer
+media/ffmpeg
+media/mpv
 net-analyzer/wireshark
 net-apps/cclive
 net-ftp/ncftp
