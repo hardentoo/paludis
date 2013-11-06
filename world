@@ -34,8 +34,10 @@ repository/rbrown
 repository/roidelapluie
 repository/sardemff7
 repository/scientific
+repository/texlive
 repository/xfce
 
+texlive
 xorg
 
 app-admin/sudo
