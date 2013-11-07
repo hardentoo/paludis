@@ -30,6 +30,7 @@ repository/perl
 repository/philantrop
 repository/pioto
 repository/pipping
+repository/pyro
 repository/python
 repository/rbrown
 repository/roidelapluie
@@ -118,6 +119,7 @@ sys-fs/zfs
 sys-process/htop
 sys-sound/alsa-firmware
 sys-sound/alsa-utils
+x11-apps/dunst
 x11-apps/i3lock
 x11-apps/redshift
 x11-apps/rxvt-unicode
