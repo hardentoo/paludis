@@ -73,6 +73,8 @@ dev-ruby/selecta
 dev-scm/bzr
 dev-scm/mercurial
 dev-scm/subversion
+dev-texlive/texlive-fontsextra
+dev-texlive/texlive-fontsrecommended
 dev-util/the_silver_searcher
 dev-util/tig
 firmware/linux-firmware
