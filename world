@@ -82,6 +82,7 @@ fonts/dejavu
 fonts/liberation-fonts
 games-board/xboard
 games-emulation/mess
+gnome-desktop/zenity
 mail-client/mutt
 mail-client/notmuch
 mail-mta/msmtp
