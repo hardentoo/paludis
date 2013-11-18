@@ -95,6 +95,7 @@ media/ffmpeg
 media/mpv
 net-analyzer/wireshark
 net-apps/cclive
+net-dns/bind-tools
 net-ftp/ncftp
 net-irc/weechat
 net-mail/offlineimap
