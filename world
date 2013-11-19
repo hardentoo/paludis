@@ -96,6 +96,7 @@ media/mpv
 net-analyzer/wireshark
 net-apps/cclive
 net-dns/bind-tools
+net-dns/dnsmasq
 net-ftp/ncftp
 net-irc/weechat
 net-mail/offlineimap
