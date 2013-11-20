@@ -108,6 +108,7 @@ net-misc/wicd
 net-p2p/transmission
 net-plugins/adobe-flash
 net-print/cups
+net-proxy/polipo
 net-proxy/privoxy
 net-wireless/wireless_tools
 net-wireless/wpa_supplicant
