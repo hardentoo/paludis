@@ -88,6 +88,7 @@ mail-client/notmuch
 mail-mta/msmtp
 media-gfx/ImageMagick
 media-gfx/feh
+media-gfx/fontforge
 media-sound/audacity
 media-sound/mpd
 media-sound/ncmpcpp
