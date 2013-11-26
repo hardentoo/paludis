@@ -45,6 +45,7 @@ xorg
 app-admin/sudo
 app-arch/p7zip
 app-arch/unrar
+app-editors/gvim
 app-editors/vim
 app-misc/tree
 app-shells/bash
