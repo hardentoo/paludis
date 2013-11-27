@@ -128,6 +128,7 @@ sys-fs/zfs
 sys-process/htop
 sys-sound/alsa-firmware
 sys-sound/alsa-utils
+www-servers/nginx
 x11-apps/dunst
 x11-apps/i3lock
 x11-apps/redshift
