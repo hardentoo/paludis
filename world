@@ -62,6 +62,7 @@ base/figlet
 base/syslinux
 dev-lang/ghc
 dev-lang/lua
+dev-lang/node
 dev-lang/perl
 dev-lang/python
 dev-lang/ruby
