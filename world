@@ -37,6 +37,7 @@ repository/roidelapluie
 repository/sardemff7
 repository/scientific
 repository/texlive
+repository/worr
 repository/xfce
 
 texlive
@@ -126,6 +127,7 @@ sys-devel/gdb
 sys-fs/dosfstools
 sys-fs/ntfs-3g_ntfsprogs
 sys-fs/zfs
+sys-kernel/dkms
 sys-process/htop
 sys-sound/alsa-firmware
 sys-sound/alsa-utils
