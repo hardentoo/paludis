@@ -61,6 +61,7 @@ app-vim/exheres-syntax
 app-virtualization/virtualbox-ose
 base/figlet
 base/syslinux
+dev-java/rhino
 dev-lang/ghc
 dev-lang/icedtea-web
 dev-lang/lua
@@ -169,7 +170,6 @@ net-misc/socat
 
 # TODO
 # app-emulation/dolphin-emu
-# dev-java/rhino
 # dev-scala/sbt
 # dev-scm/darcs
 # games-board/knights
