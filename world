@@ -131,6 +131,8 @@ sys-kernel/dkms
 sys-process/htop
 sys-sound/alsa-firmware
 sys-sound/alsa-utils
+virtual/jdk
+virtual/jre
 www-servers/apache
 www-servers/nginx
 x11-apps/dunst
