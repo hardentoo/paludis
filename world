@@ -62,6 +62,7 @@ app-virtualization/virtualbox-ose
 base/figlet
 base/syslinux
 dev-lang/ghc
+dev-lang/icedtea-web
 dev-lang/lua
 dev-lang/node
 dev-lang/perl
@@ -169,7 +170,6 @@ net-misc/socat
 # TODO
 # app-emulation/dolphin-emu
 # dev-java/rhino
-# dev-lang/icedtea-web
 # dev-scala/sbt
 # dev-scm/darcs
 # games-board/knights
