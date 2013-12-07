@@ -122,6 +122,7 @@ net-www/chromium-dev
 net-www/dwb
 net-www/links
 net-www/uzbl
+sys-apps/bc
 sys-apps/gptfdisk
 sys-apps/sydbox
 sys-apps/systemd
