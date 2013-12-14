@@ -106,6 +106,7 @@ net-dns/dnsmasq
 net-ftp/ncftp
 net-irc/weechat
 net-mail/isync
+net-mail/offlineimap
 net-misc/dhcpcd
 net-misc/openvpn
 net-misc/socat
