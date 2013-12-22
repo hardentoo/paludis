@@ -158,7 +158,6 @@ x11-apps/xrdb
 x11-drivers/xf86-input-evdev
 x11-drivers/xf86-video-ati
 x11-misc/dmenu
-x11-misc/parcellite
 x11-plugins/i3status
 x11-themes/tango-icon-theme
 x11-utils/xclip
