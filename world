@@ -119,7 +119,6 @@ net-proxy/privoxy
 net-proxy/torsocks
 net-wireless/wireless_tools
 net-wireless/wpa_supplicant
-net-www/chromium-dev
 net-www/dwb
 net-www/links
 net-www/uzbl
