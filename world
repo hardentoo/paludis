@@ -69,6 +69,7 @@ dev-lang/node
 dev-lang/perl
 dev-lang/python
 dev-lang/ruby
+dev-lang/vala
 dev-libs/nspluginwrapper
 dev-libs/quvi
 dev-python/pip
