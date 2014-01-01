@@ -173,6 +173,8 @@ net-misc/socat
 
 # TODO
 # app-emulation/dolphin-emu
+# dev-lang/go
 # dev-scm/darcs
 # games-board/knights
 # media-video/kdenlive
+# x11-terms/finalterm
