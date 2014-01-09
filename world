@@ -11,6 +11,7 @@ repository/games
 repository/gnome
 repository/hardware
 repository/haskell
+repository/heirecka
 repository/ingmar
 repository/java
 repository/keruspe
@@ -135,6 +136,7 @@ sys-apps/systemd
 sys-devel/gcc
 sys-devel/gdb
 sys-fs/dosfstools
+sys-fs/exfat-utils
 sys-fs/ntfs-3g_ntfsprogs
 sys-fs/zfs
 sys-kernel/dkms
