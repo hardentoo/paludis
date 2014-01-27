@@ -28,6 +28,7 @@ repository/mixi
 repository/nakamuray
 repository/net
 repository/nicoo
+repository/ocaml-unofficial
 repository/office
 repository/perl
 repository/philantrop
@@ -69,6 +70,7 @@ dev-lang/ghc
 dev-lang/icedtea-web
 dev-lang/lua
 dev-lang/node
+dev-lang/ocaml
 dev-lang/perl
 dev-lang/python
 dev-lang/ruby
