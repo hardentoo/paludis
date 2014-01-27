@@ -59,6 +59,7 @@ app-shells/zsh
 app-terminal/tmux
 app-text/jq
 app-text/pandoc
+app-text/par
 app-text/wgetpaste
 app-text/zathura
 app-vim/exheres-syntax
