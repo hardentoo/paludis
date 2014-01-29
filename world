@@ -52,6 +52,7 @@ app-arch/p7zip
 app-arch/unrar
 app-editors/gvim
 app-editors/vim
+app-emulation/dolphin-emu
 app-misc/tree
 app-shells/bash
 app-shells/fish-shell
@@ -68,6 +69,7 @@ base/figlet
 base/syslinux
 dev-java/rhino
 dev-lang/ghc
+dev-lang/go
 dev-lang/icedtea-web
 dev-lang/lua
 dev-lang/node
@@ -84,6 +86,7 @@ dev-ruby/e
 dev-ruby/selecta
 dev-scala/sbt
 dev-scm/bzr
+dev-scm/darcs
 dev-scm/mercurial
 dev-scm/subversion
 dev-texlive/texlive-fontsextra
@@ -94,6 +97,7 @@ dev-util/tig
 firmware/linux-firmware
 fonts/dejavu
 fonts/liberation-fonts
+games-board/knights
 games-board/xboard
 games-emulation/mess
 gnome-desktop/zenity
@@ -108,6 +112,7 @@ media-sound/audacity
 media-sound/mpd
 media-sound/ncmpcpp
 media-sound/spotify
+media-video/kdenlive
 media/ffmpeg
 media/mpv
 net-analyzer/wireshark
@@ -172,6 +177,7 @@ x11-drivers/xf86-input-evdev
 x11-drivers/xf86-video-ati
 x11-misc/dmenu
 x11-plugins/i3status
+x11-terms/finalterm
 x11-themes/tango-icon-theme
 x11-utils/xclip
 x11-wm/i3
@@ -182,11 +188,3 @@ sys-devel/gcc
 dev-libs/boost
 sys-libs/ncurses
 net-misc/socat
-
-# TODO
-# app-emulation/dolphin-emu
-# dev-lang/go
-# dev-scm/darcs
-# games-board/knights
-# media-video/kdenlive
-# x11-terms/finalterm
