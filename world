@@ -65,6 +65,7 @@ app-text/par
 app-text/wgetpaste
 app-text/zathura
 app-vim/exheres-syntax
+app-virtualization/qemu
 app-virtualization/virtualbox-ose
 base/figlet
 base/syslinux
