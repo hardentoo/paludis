@@ -111,6 +111,7 @@ mail-mta/msmtp
 media-gfx/ImageMagick
 media-gfx/feh
 media-gfx/fontforge
+media-gfx/gimp
 media-gfx/graphviz
 media-sound/audacity
 media-sound/mpd
