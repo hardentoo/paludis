@@ -79,6 +79,7 @@ dev-lang/ocaml
 dev-lang/perl
 dev-lang/python
 dev-lang/ruby
+dev-lang/rust
 dev-lang/vala
 dev-libs/nspluginwrapper
 dev-libs/quvi
