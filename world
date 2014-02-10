@@ -102,6 +102,7 @@ dev-util/proot
 dev-util/ragel
 dev-util/the_silver_searcher
 dev-util/tig
+distribution/steam
 firmware/linux-firmware
 fonts/dejavu
 fonts/liberation-fonts
