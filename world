@@ -74,6 +74,7 @@ app-virtualization/virtualbox-ose
 base/figlet
 base/syslinux
 dev-haskell/cabal-install
+dev-java/maven
 dev-java/rhino
 dev-lang/ghc
 dev-lang/go
