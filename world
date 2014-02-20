@@ -151,7 +151,7 @@ net-proxy/torsocks
 net-wireless/wireless_tools
 net-wireless/wpa_supplicant
 net-www/firefox
-net-www/links
+net-www/lynx
 net-www/uzbl
 sys-apps/bc
 sys-apps/gptfdisk
