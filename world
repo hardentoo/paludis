@@ -134,6 +134,7 @@ net-analyzer/wireshark
 net-dns/bind-tools
 net-dns/dnsmasq
 net-ftp/ncftp
+net-im/bitlbee
 net-im/skype
 net-irc/weechat
 net-mail/fdm
