@@ -123,6 +123,7 @@ media-gfx/fontforge
 media-gfx/gimp
 media-gfx/graphviz
 media-gfx/inkscape
+media-gfx/sxiv
 media-sound/audacity
 media-sound/mpd
 media-sound/ncmpcpp
