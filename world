@@ -76,9 +76,11 @@ base/syslinux
 dev-haskell/cabal-install
 dev-java/maven
 dev-java/rhino
+dev-lang/clang
 dev-lang/ghc
 dev-lang/go
 dev-lang/icedtea-web
+dev-lang/llvm
 dev-lang/lua
 dev-lang/node
 dev-lang/ocaml
