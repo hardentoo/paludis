@@ -111,9 +111,6 @@ distribution/steam
 firmware/linux-firmware
 fonts/dejavu
 fonts/liberation-fonts
-games-board/knights
-games-board/stockfish
-games-board/xboard
 games-emulation/mess
 gnome-desktop/zenity
 mail-client/mutt
