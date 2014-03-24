@@ -194,10 +194,8 @@ x11-drivers/xf86-video-ati
 x11-misc/dmenu
 x11-plugins/i3status
 x11-terms/finalterm
-x11-themes/tango-icon-theme
 x11-utils/xclip
 x11-wm/i3
-xfce-base/Thunar
 
 # Kakoune dependencies are:
 sys-devel/gcc
