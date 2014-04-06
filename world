@@ -53,6 +53,7 @@ xorg
 app-admin/sudo
 app-arch/p7zip
 app-arch/unrar
+app-editor/kakoune
 app-editors/gvim
 app-editors/vim
 app-emulation/dolphin-emu
@@ -198,9 +199,3 @@ x11-plugins/i3status
 x11-terms/finalterm
 x11-utils/xclip
 x11-wm/i3
-
-# Kakoune dependencies are:
-sys-devel/gcc
-dev-libs/boost
-sys-libs/ncurses
-net-misc/socat
