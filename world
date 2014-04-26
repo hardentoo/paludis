@@ -150,6 +150,8 @@ net-proxy/torsocks
 net-wireless/wireless_tools
 net-wireless/wpa_supplicant
 net-www/chromium-dev
+net-www/chromium-dev-flash-plugin
+net-www/chromium-dev-pdf-plugin
 net-www/google-talkplugin
 sys-apps/bc
 sys-apps/gptfdisk
