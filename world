@@ -54,8 +54,6 @@ app-admin/sudo
 app-arch/p7zip
 app-arch/unrar
 app-editor/kakoune
-app-editors/gvim
-app-editors/vim
 app-emulation/dolphin-emu
 app-misc/tree
 app-shells/bash
@@ -69,7 +67,6 @@ app-text/pandoc
 app-text/par
 app-text/wgetpaste
 app-text/zathura
-app-vim/exheres-syntax
 app-virtualization/qemu
 app-virtualization/virtualbox-ose
 base/figlet
