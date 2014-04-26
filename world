@@ -134,7 +134,7 @@ media-video/kdenlive
 media/ffmpeg
 media/mpv
 net-analyzer/wireshark
-net-dns/bind-tools
+net-dns/bind
 net-ftp/ncftp
 net-im/bitlbee
 net-im/skype
