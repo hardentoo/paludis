@@ -150,6 +150,7 @@ net-proxy/torsocks
 net-wireless/wireless_tools
 net-wireless/wpa_supplicant
 net-www/chromium-dev
+net-www/google-talkplugin
 sys-apps/bc
 sys-apps/gptfdisk
 sys-apps/sydbox
