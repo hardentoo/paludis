@@ -141,7 +141,6 @@ net-im/bitlbee
 net-im/skype
 net-irc/weechat
 net-mail/fdm
-net-mail/offlineimap
 net-misc/dhcpcd
 net-misc/openvpn
 net-misc/socat
