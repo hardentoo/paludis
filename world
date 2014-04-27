@@ -111,6 +111,8 @@ firmware/linux-firmware
 fonts/dejavu
 fonts/liberation-fonts
 games-emulation/mess
+gnome-desktop/gnome-keyring
+gnome-desktop/network-manager-applet
 gnome-desktop/zenity
 mail-client/mutt
 mail-client/notmuch
@@ -129,6 +131,7 @@ media-video/kdenlive
 media/ffmpeg
 media/vlc
 net-analyzer/wireshark
+net-apps/NetworkManager
 net-dns/bind
 net-ftp/ncftp
 net-im/bitlbee
@@ -139,7 +142,6 @@ net-misc/dhcpcd
 net-misc/openvpn
 net-misc/socat
 net-misc/tor
-net-misc/wicd
 net-p2p/transmission
 net-plugins/adobe-flash
 net-print/cups
