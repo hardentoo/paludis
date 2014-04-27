@@ -129,7 +129,7 @@ media-sound/ncmpcpp
 media-sound/spotify
 media-video/kdenlive
 media/ffmpeg
-media/mpv
+media/vlc
 net-analyzer/wireshark
 net-dns/bind
 net-ftp/ncftp
