@@ -116,12 +116,10 @@ mail-client/mutt
 mail-client/notmuch
 mail-mta/msmtp
 media-gfx/ImageMagick
-media-gfx/feh
 media-gfx/fontforge
 media-gfx/gimp
 media-gfx/graphviz
 media-gfx/inkscape
-media-gfx/sxiv
 media-sound/audacity
 media-sound/mpc
 media-sound/mpd
@@ -174,6 +172,7 @@ www-servers/apache
 www-servers/nginx
 x11-apps/dunst
 x11-apps/i3lock
+x11-apps/nitrogen
 x11-apps/redshift
 x11-apps/rxvt-unicode
 x11-apps/setxkbmap
