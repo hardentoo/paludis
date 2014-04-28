@@ -114,8 +114,7 @@ games-emulation/mess
 gnome-desktop/gnome-keyring
 gnome-desktop/network-manager-applet
 gnome-desktop/zenity
-mail-client/mutt
-mail-client/notmuch
+mail-client/sup
 mail-mta/msmtp
 media-gfx/ImageMagick
 media-gfx/fontforge
