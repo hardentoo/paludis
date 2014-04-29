@@ -60,8 +60,6 @@ app-shells/bash
 app-shells/fish-shell
 app-shells/zsh
 app-terminal/tmux
-app-text/calibre
-app-text/fbreader
 app-text/jq
 app-text/pandoc
 app-text/par
