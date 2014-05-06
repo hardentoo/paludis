@@ -197,8 +197,6 @@ x11-drivers/nvidia-drivers
 x11-drivers/xf86-input-evdev
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
-x11-misc/dmenu
-x11-plugins/i3status
 x11-terms/finalterm
 x11-themes/faenza-icon-theme
 x11-utils/xclip
