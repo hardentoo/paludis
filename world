@@ -111,7 +111,6 @@ fonts/dejavu
 fonts/liberation-fonts
 games-emulation/mess
 gnome-desktop/gnome-keyring
-gnome-desktop/zenity
 mail-client/sup
 mail-mta/msmtp
 media-gfx/ImageMagick
