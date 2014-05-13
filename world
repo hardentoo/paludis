@@ -153,6 +153,7 @@ net-www/chromium-dev
 net-www/chromium-dev-flash-plugin
 net-www/chromium-dev-pdf-plugin
 net-www/google-talkplugin
+net/eventd
 sys-apps/bc
 sys-apps/gptfdisk
 sys-apps/sydbox
@@ -177,7 +178,6 @@ virtual/jdk
 virtual/jre
 www-servers/apache
 www-servers/nginx
-x11-apps/dunst
 x11-apps/i3lock
 x11-apps/nitrogen
 x11-apps/redshift
