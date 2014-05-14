@@ -163,6 +163,7 @@ sys-fs/fuse
 sys-fs/ntfs-3g_ntfsprogs
 sys-fs/zfs
 sys-kernel/dkms
+sys-libs/wayland
 sys-process/htop
 sys-sound/alsa-firmware
 sys-sound/alsa-utils
