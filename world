@@ -55,11 +55,12 @@ app-arch/p7zip
 app-arch/unrar
 app-editor/kakoune
 app-emulation/dolphin-emu
+app-misc/dtach
 app-misc/tree
 app-shells/bash
 app-shells/fish-shell
 app-shells/zsh
-app-terminal/tmux
+app-spell/hunspell
 app-text/jq
 app-text/pandoc
 app-text/par
@@ -77,7 +78,6 @@ dev-java/rhino
 dev-lang/clang
 dev-lang/ghc
 dev-lang/go
-dev-lang/icedtea-web
 dev-lang/llvm
 dev-lang/lua
 dev-lang/node
@@ -88,7 +88,6 @@ dev-lang/ruby
 dev-lang/rust
 dev-lang/scala
 dev-lang/vala
-dev-libs/nspluginwrapper
 dev-libs/quvi
 dev-python/pip
 dev-python/ranger
@@ -112,6 +111,7 @@ fonts/dejavu
 fonts/liberation-fonts
 games-emulation/mess
 gnome-desktop/gnome-keyring
+gnome-desktop/network-manager-applet
 mail-client/sup
 mail-mta/msmtp
 media-gfx/ImageMagick
@@ -141,7 +141,6 @@ net-misc/openvpn
 net-misc/socat
 net-misc/tor
 net-p2p/transmission
-net-plugins/adobe-flash
 net-print/cups
 net-proxy/privoxy
 net-proxy/torsocks
@@ -197,7 +196,6 @@ x11-drivers/xf86-input-evdev
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
 x11-plugins/j4status
-x11-terms/finalterm
 x11-themes/faenza-icon-theme
 x11-utils/xsel
 x11-wm/i3
