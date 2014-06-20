@@ -180,8 +180,8 @@ www-servers/nginx
 x11-apps/i3lock
 x11-apps/nitrogen
 x11-apps/redshift
-x11-apps/rxvt-unicode
 x11-apps/setxkbmap
+x11-apps/termite
 x11-apps/xbacklight
 x11-apps/xcompmgr
 x11-apps/xdg-utils
