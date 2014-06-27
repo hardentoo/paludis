@@ -70,6 +70,7 @@ app-virtualization/virtualbox-ose
 base/figlet
 base/syslinux
 compositor/weston
+dev-db/mongodb
 dev-db/postgresql
 dev-haskell/cabal-install
 dev-java/maven
