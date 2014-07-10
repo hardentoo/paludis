@@ -89,6 +89,7 @@ dev-lang/rust
 dev-lang/scala
 dev-lang/vala
 dev-libs/quvi
+dev-libs/yajl
 dev-python/pip
 dev-python/ranger
 dev-ruby/e
