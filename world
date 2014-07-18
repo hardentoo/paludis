@@ -128,7 +128,7 @@ media-sound/pulseaudio
 media-sound/spotify
 media-video/kdenlive
 media/ffmpeg
-media/vlc
+media/mpv
 net-analyzer/wireshark
 net-apps/NetworkManager
 net-dns/bind
