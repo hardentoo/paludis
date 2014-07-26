@@ -59,7 +59,6 @@ app-misc/tree
 app-shells/bash
 app-shells/dash
 app-shells/fish-shell
-app-shells/zsh
 app-spell/hunspell
 app-text/jq
 app-text/pandoc
