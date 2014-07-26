@@ -111,6 +111,7 @@ firmware/linux-firmware
 fonts/dejavu
 fonts/liberation-fonts
 games-emulation/mess
+games-rpg/dofus
 gnome-desktop/gnome-keyring
 gnome-desktop/network-manager-applet
 mail-client/sup
