@@ -179,6 +179,7 @@ text-plugins/zathura-pdf-poppler
 text-plugins/zathura-ps
 virtual/jdk
 virtual/jre
+voip/mumble
 www-servers/apache
 www-servers/nginx
 x11-apps/i3lock
