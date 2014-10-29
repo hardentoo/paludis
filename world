@@ -90,7 +90,6 @@ dev-libs/yajl
 dev-python/pip
 dev-python/ranger
 dev-ruby/e
-dev-ruby/selecta
 dev-scala/sbt
 dev-scm/bzr
 dev-scm/darcs
