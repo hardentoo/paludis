@@ -42,11 +42,9 @@ repository/roidelapluie
 repository/sardemff7
 repository/scientific
 repository/tcl
-repository/texlive
 repository/worr
 repository/xfce
 
-texlive
 xorg
 
 app-admin/sudo
@@ -99,8 +97,6 @@ dev-scm/darcs
 dev-scm/mercurial
 dev-scm/subversion
 dev-tcl/expect
-dev-texlive/texlive-fontsextra
-dev-texlive/texlive-fontsrecommended
 dev-util/proot
 dev-util/ragel
 dev-util/the_silver_searcher
