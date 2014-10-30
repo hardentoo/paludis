@@ -170,7 +170,7 @@ sys-sound/alsa-utils
 text-plugins/zathura-cb
 text-plugins/zathura-djvu
 text-plugins/zathura-epub
-text-plugins/zathura-pdf-poppler
+text-plugins/zathura-pdf-mupdf
 text-plugins/zathura-ps
 virtual/jdk
 virtual/jre
