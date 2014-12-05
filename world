@@ -54,6 +54,7 @@ app-editor/kakoune
 app-emulation/dolphin-emu
 app-misc/dtach
 app-misc/tree
+app-pda/gtkpod
 app-shells/bash
 app-shells/dash
 app-shells/fish-shell
