@@ -196,7 +196,7 @@ x11-drivers/xf86-input-evdev
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
 x11-libs/i3ipc-glib
-x11-plugins/j4status
+x11-plugins/i3status
 x11-themes/faenza-icon-theme
 x11-utils/xsel
 x11-wm/i3
