@@ -111,6 +111,7 @@ games-rpg/dofus
 games-rpg/wakfu
 gnome-desktop/gnome-keyring
 gnome-desktop/network-manager-applet
+gnome-desktop/zenity
 mail-client/sup
 mail-mta/msmtp
 media-gfx/ImageMagick
