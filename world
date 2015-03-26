@@ -155,6 +155,7 @@ net-www/google-talkplugin
 net/eventd
 sys-apps/bc
 sys-apps/gptfdisk
+sys-apps/net-tools
 sys-apps/sydbox
 sys-apps/systemd
 sys-devel/gcc
