@@ -122,9 +122,6 @@ media-gfx/graphviz
 media-gfx/inkscape
 media-gfx/sxiv
 media-sound/audacity
-media-sound/mpc
-media-sound/mpd
-media-sound/ncmpcpp
 media-sound/spotify
 media-video/kdenlive
 media/ffmpeg
