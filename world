@@ -109,6 +109,7 @@ fonts/liberation-fonts
 games-emulation/mess
 games-rpg/dofus
 games-rpg/wakfu
+gnome-desktop/gMTP
 gnome-desktop/gnome-keyring
 gnome-desktop/network-manager-applet
 gnome-desktop/zenity
