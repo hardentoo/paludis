@@ -100,6 +100,7 @@ dev-scm/subversion
 dev-tcl/expect
 dev-util/proot
 dev-util/ragel
+dev-util/strace
 dev-util/the_silver_searcher
 dev-util/tig
 distribution/steam
