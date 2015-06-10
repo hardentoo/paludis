@@ -129,6 +129,7 @@ media-sound/spotify
 media-video/kdenlive
 media/ffmpeg
 media/mpv
+media/playerctl
 net-analyzer/wireshark
 net-apps/NetworkManager
 net-dns/bind
