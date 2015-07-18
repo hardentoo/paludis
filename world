@@ -63,6 +63,8 @@ app-text/jq
 app-text/pandoc
 app-text/par
 app-text/zathura
+app-virtualization/docker
+app-virtualization/lxc
 app-virtualization/qemu
 app-virtualization/virtualbox-ose
 base/figlet
