@@ -97,6 +97,7 @@ dev-ruby/e
 dev-scala/sbt
 dev-scm/bzr
 dev-scm/darcs
+dev-scm/libgit2
 dev-scm/mercurial
 dev-scm/subversion
 dev-tcl/expect
