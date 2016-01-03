@@ -176,6 +176,7 @@ sys-libs/wayland
 sys-process/htop
 sys-sound/alsa-firmware
 sys-sound/alsa-utils
+text-plugins/zathura-cb
 text-plugins/zathura-epub
 text-plugins/zathura-pdf-mupdf
 virtual/jdk
