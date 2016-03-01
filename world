@@ -61,6 +61,7 @@ app-shells/bash
 app-shells/dash
 app-shells/fish-shell
 app-spell/hunspell
+app-text/google-translate-cli
 app-text/jq
 app-text/pandoc
 app-text/par
