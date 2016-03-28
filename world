@@ -168,6 +168,7 @@ sys-apps/gptfdisk
 sys-apps/net-tools
 sys-apps/sydbox
 sys-apps/systemd
+sys-apps/upower
 sys-devel/cmake
 sys-devel/gcc
 sys-devel/gdb
