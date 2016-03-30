@@ -48,6 +48,7 @@ repository/xfce
 xorg
 
 app-admin/sudo
+app-arch/e
 app-arch/p7zip
 app-arch/unrar
 app-doc/asciidoc
@@ -97,7 +98,6 @@ dev-libs/quvi
 dev-libs/yajl
 dev-ocaml/opam
 dev-python/pip
-dev-ruby/e
 dev-ruby/ruby-install
 dev-scala/sbt
 dev-scm/bzr
