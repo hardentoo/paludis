@@ -108,7 +108,6 @@ dev-scm/subversion
 dev-tcl/expect
 dev-util/cscope
 dev-util/ctags
-dev-util/proot
 dev-util/ragel
 dev-util/strace
 dev-util/the_silver_searcher
