@@ -62,6 +62,7 @@ app-shells/dash
 app-shells/fish-shell
 app-spell/hunspell
 app-terminal/asciinema
+app-terminal/ranger
 app-text/google-translate-cli
 app-text/jq
 app-text/pandoc
@@ -96,7 +97,6 @@ dev-libs/quvi
 dev-libs/yajl
 dev-ocaml/opam
 dev-python/pip
-dev-python/ranger
 dev-ruby/e
 dev-ruby/ruby-install
 dev-scala/sbt
