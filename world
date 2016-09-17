@@ -107,6 +107,7 @@ dev-scm/libgit2
 dev-scm/mercurial
 dev-scm/subversion
 dev-tcl/expect
+dev-util/cram
 dev-util/cscope
 dev-util/ctags
 dev-util/ragel
