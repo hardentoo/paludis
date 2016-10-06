@@ -178,6 +178,7 @@ sys-fs/exfat-utils
 sys-fs/fuse
 sys-fs/inotify-tools
 sys-fs/ntfs-3g_ntfsprogs
+sys-fs/sshfs-fuse
 sys-fs/zfs
 sys-kernel/dkms
 sys-libs/wayland
