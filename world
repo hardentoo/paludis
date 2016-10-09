@@ -52,6 +52,7 @@ app-arch/e
 app-arch/p7zip
 app-arch/unrar
 app-doc/asciidoc
+app-editors/atom
 app-editors/kakoune
 app-emulation/darling
 app-emulation/dolphin-emu
